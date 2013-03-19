@@ -32,7 +32,7 @@ Aponte seu browser para http://localhost:3000 e divirta-se ;)
 
 Prepare o Banco de Dados no ambiente de Testes
 
-    $ rake db:prepare:test
+    $ rake db:test:prepare
 
 ou
 
